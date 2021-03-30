@@ -19,7 +19,7 @@
 
 ## Demo
 
-<iframe src="https://player.vimeo.com/video/530738272" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+[![demo](./assets/demo.jpeg)](https://vimeo.com/530738272)
 
 ## Installation
 
